@@ -1,0 +1,6 @@
+{
+  "name": "ViperStrike Snake Arcade",
+  "description": "A modern, high-precision Snake arcade game with multiple game modes, dynamic power-ups, customizable skins, synthesized audio, and particle physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
